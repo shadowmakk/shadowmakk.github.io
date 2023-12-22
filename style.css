@@ -1,0 +1,43 @@
+img {
+    color: red;
+}
+div{
+    margin: 1cm;
+    border-radius: 50px 50px;
+    padding: 1cm;
+    transition:0.3s;
+}
+
+#print3d {
+    background-color: orange;
+    border: solid 1px rgb(22, 22, 63);
+    
+}
+
+#simracing{
+    background-color: red;
+    border: solid 1px rgb(22, 22, 63);
+    
+}
+
+#gaming{
+    background-color: green;
+    border: solid 1px rgb(22, 22, 63);
+    
+}
+
+#style{
+    background-color: pink;
+    border: solid 1px rgb(22, 22, 63);
+    
+}
+
+#informatique{
+    background-color: lightseagreen;
+    border: solid 1px rgb(22, 22, 63);   
+}
+
+.tech:hover {
+    box-shadow: 0px 0px 20px black;
+}
+.voiture:hover{transform:rotate(360deg)}
